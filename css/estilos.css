@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+ }
+ .card{
+    width: 250px;
+    height: 380px;
+    background-color: white;
+    border-radius: 10px;
+ }
+ img{
+    width: 200px;
+    height: 200px;
+    display:block;
+    margin:auto;
+    margin-top: 20px;
+    border-radius: 10px;
+ }
+ .parrafo1{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+ }
+ .parrafo2{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+ }
